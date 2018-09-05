@@ -10,7 +10,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 /**
- * @author sachin bhalekar 109779161
+ * @author sachin bhalekar 
  *
  *The below local search algorithm is used to find solution for Max2SAT problem.
  *The algorithm uses breakcount (The number of clauses that become false after changing the value of a variable) value for each variable and considers variable having minimum break count
